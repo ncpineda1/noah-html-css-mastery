@@ -1,0 +1,74 @@
+html {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 62.5%;
+}
+
+p, ul, ol, dl {
+  font-size: 1.7rem;
+  line-height: 2.6rem;
+  margin-bottom: 12px;
+}
+
+article {
+  max-width: 620px;
+  margin: 0 auto;
+}
+
+h1, h2, h3, h4 {
+  font-family: Ubuntu, Arial, serif;
+}
+
+h1 {
+  font-size: 4.4rem;
+  margin-bottom: 20px 0;
+}
+
+h2 {
+  font-size: 3.2rem;
+  margin: 20px 0;
+}
+
+h3 {
+  font-size: 2.3rem;
+  margin: 20px 0;
+}
+
+h4 {
+  font-size: 1.5rem;
+  margin: 20px 0;
+}
+
+figcaption, .byline, span {
+  font-size: 1.4rem;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+figcaption {
+  margin-top: 7px;
+  margin-bottom: 20px;
+  text-align: right;
+}
+
+span {
+  font-style: italic;
+}
+
+blockquote {
+  border-left: 4px solid grey;
+  padding-left: 20px;
+  margin-left: 30px;
+  /* Added margin top and bottom make it look more like the sample PNG */
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+li {
+  list-style-position: inside;
+}
+
+.comments-notes {
+  background-color: #CCC;
+  padding: 12px;
+  /* Added margin bottom make it look more like the sample PNG */
+  margin-bottom: 10px;
+}
